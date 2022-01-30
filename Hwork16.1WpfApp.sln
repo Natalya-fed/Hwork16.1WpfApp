@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hwork16.1WpfApp", "Hwork16.1WpfApp\Hwork16.1WpfApp.csproj", "{5DF4C77C-6E6E-497D-9ECE-8B054692C4FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DF4C77C-6E6E-497D-9ECE-8B054692C4FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF4C77C-6E6E-497D-9ECE-8B054692C4FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF4C77C-6E6E-497D-9ECE-8B054692C4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF4C77C-6E6E-497D-9ECE-8B054692C4FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0252D401-0862-4FD6-859B-1046F4771F08}
+	EndGlobalSection
+EndGlobal
